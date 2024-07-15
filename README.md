@@ -1,3 +1,8 @@
+
+![Dashboard Overview](https://github.com/user-attachments/assets/6fd261a3-50ec-4f04-ac11-60f6f160517d)
+
+![Dashboard Summary](https://github.com/user-attachments/assets/4a8807cd-b2ba-4b7a-a60d-4f5c47fca1b4)
+
 # DATASET
 Data - Bank loan data with 38577 rows covering the 12 months in 2021.
 Data Analysis - SQL Server and Microsoft Power BI
